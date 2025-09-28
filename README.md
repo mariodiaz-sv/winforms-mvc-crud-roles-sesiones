@@ -36,11 +36,17 @@ Permite realizar operaciones **CRUD** (Crear, Leer, Actualizar y Eliminar) sobre
 ## 📂 Estructura del proyecto
 
 CRUD_PatronMVC/
+
 │── Controllers/ # Controladores para manejar la lógica
+
 │── Helpers/ # Métodos de validación y utilidades
+
 │── Models/ # Clases que representan los datos (POCOs)
+
 │── Views/ # Formularios de Windows Forms
+
 │── Program.cs # Punto de entrada de la aplicación
+
 
 
 ---
@@ -60,9 +66,11 @@ CRUD_PatronMVC/
 
 2. Restaura los paquetes NuGet si es necesario.
 
-3. Compila y ejecuta el proyecto (Ctrl + F5).
+3. Cambia tu cadena de conexión dentrol del archivo ClaseCRUD
 
-4. Usuario Admin Contraseña Admin123
+4. Compila y ejecuta el proyecto (Ctrl + F5).
+
+5. Usuario Admin Contraseña Admin123
 
  
  ---
