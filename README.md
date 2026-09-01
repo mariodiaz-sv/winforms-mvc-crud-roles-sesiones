@@ -60,7 +60,7 @@ CRUD_PatronMVC/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/mariodiaz-sv/Patron-MVC-CRUD-manejo-de-roles-y-sesiones-en-C-VS-2022.git
+   git clone https://github.com/mariodiaz-sv/winforms-mvc-crud-roles-sesiones.git
 
    Abre el proyecto en Visual Studio 2022.
 
