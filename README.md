@@ -70,7 +70,7 @@ CRUD_PatronMVC/
 
 4. Compila y ejecuta el proyecto (Ctrl + F5).
 
-5. Usuario Admin Contraseña Admin123
+5. Usuario admin Contraseña admin123
 
  
  ---
